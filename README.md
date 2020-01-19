@@ -1,3 +1,3 @@
 ATTENDANCE WEB PORTAL
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Shannnnn/attendance-webportal/Login.png)
