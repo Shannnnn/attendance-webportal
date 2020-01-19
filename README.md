@@ -1,3 +1,3 @@
 ATTENDANCE WEB PORTAL
 
-![Image of Login](https://github.com/Shannnnn/attendance-webportal/Login.png)
+![Image of Login](https://https://github.com/Shannnnn/attendance-webportal/blob/master/Login.PNG)
