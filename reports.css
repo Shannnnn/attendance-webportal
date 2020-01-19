@@ -1,0 +1,64 @@
+<style type="text/css">
+       .page-header {
+            margin-top: 20px;
+       }.container-fluid {
+            margin-top: 30px;
+       }.hr{
+          height:1px;
+          background: rgb(220,220,220);
+          margin-top: 20px;
+       }.bg-img {
+        /* The image used */
+        background-image: url("");
+
+        /* Control the height of the image */
+        min-height: 1000px;
+        position: absolute;
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+       }#myInput {
+        width: 100%; /* Full-width */
+        font-size: 16px; /* Increase font-size */
+        padding: 12px 20px 12px 40px; /* Add some padding */
+        border: 1px solid #ddd; /* Add a grey border */
+        margin-bottom: 12px; /* Add some space below the input */
+      }#table_div {
+        max-width: 40em;
+        max-height: 20em;
+        overflow: scroll;
+        position: relative;
+      }
+      table {
+        position: relative;
+        border-collapse: collapse;
+      }
+
+      td, th {
+        padding: 0.25em;
+      }
+
+      thead th {
+        position: -webkit-sticky; /* for Safari */
+        position: sticky;
+        top: 0;
+        background: #000;
+        color: #FFF;
+      }
+
+      thead th {
+        left: 0;
+        z-index: 1;
+      }
+
+      tbody th {
+        position: -webkit-sticky; /* for Safari */
+        position: sticky;
+        left: 0;
+        background: #FFF;
+        border-right: 1px solid #CCC;
+      }
+    </style>
